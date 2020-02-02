@@ -2,4 +2,4 @@
 
 This is my first sentence.
 
-![One of my Profile Pics](images/images/fox pic.jpeg)
+![One of my Profile Pics](images/fox pic.jpeg)

@@ -1,3 +1,4 @@
+## Table of Contents
 1. TOC
 {:toc}
 
@@ -14,7 +15,7 @@ This is my blog.
 ### Why do this?
 #### Why explain? Why write?
 Why explain? Why summarize? Why document? Why write?
-- To clarify thoughts and solidify learnings. [Feynman Method](https://collegeinfogeek.com/feynman-technique/)
+- To clarify thoughts and solidify learnings. [Feynman Method](https://collegeinfogeek.com/feynman-technique/).
 - To get feedback.
 - To document. It might be useful in the future.
 - To be held accountable.
